@@ -3,6 +3,10 @@
  * https://docs.expo.dev/guides/color-schemes/
  */
 
+/**
+ * writer: Vidushi Yadav
+ * This file is created by Expo to use for routes not found.
+ */
 import { useColorScheme } from 'react-native';
 
 import { Colors } from '@/constants/Colors';

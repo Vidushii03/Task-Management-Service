@@ -4,6 +4,9 @@ import { StyleSheet } from 'react-native';
 import { ThemedText } from '@/components/ThemedText';
 import { ThemedView } from '@/components/ThemedView';
 
+/**
+ * This screen to handle the routes which are not ready yet or for the wrong route.
+ */
 export default function NotFoundScreen() {
   return (
     <>

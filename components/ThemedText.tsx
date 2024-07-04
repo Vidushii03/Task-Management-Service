@@ -2,6 +2,10 @@ import { Text, type TextProps, StyleSheet } from 'react-native';
 
 import { useThemeColor } from '@/hooks/useThemeColor';
 
+/**
+ * writer: Vidushi Yadav
+ * This file is created by Expo to use for routes not found.
+ */
 export type ThemedTextProps = TextProps & {
   lightColor?: string;
   darkColor?: string;
